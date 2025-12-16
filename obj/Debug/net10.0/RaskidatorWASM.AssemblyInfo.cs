@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaskidatorWASM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7d2582e0d309919d73ef495c493b288a535df3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaskidatorWASM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaskidatorWASM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
