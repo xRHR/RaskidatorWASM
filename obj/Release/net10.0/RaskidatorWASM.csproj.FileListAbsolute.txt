@@ -206,9 +206,6 @@ C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_fram
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.eb0uoblj5b.wasm
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.fghffjylld.pdb
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\dotnet.jeiij2xcoc.js
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.f7yamg8acn.wasm.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.i180xx2qq9.wasm.gz
@@ -416,9 +413,6 @@ C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_fram
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.eb0uoblj5b.wasm.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.fghffjylld.pdb.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\dotnet.jeiij2xcoc.js.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\RaskidatorWASM.staticwebassets.runtime.json
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\RaskidatorWASM.staticwebassets.endpoints.json
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\RaskidatorWASM.dll
@@ -1104,10 +1098,6 @@ C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\3q
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\2oo0rrmwvb-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\8kata5qz9h-{0}-tptq2av103-tptq2av103.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\12tuzg0zyy-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\kp5bdcjdiy-{0}-eb0uoblj5b-eb0uoblj5b.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\22pb1q5sjq-{0}-fghffjylld-fghffjylld.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\5shmy8r6t7-{0}-jeiij2xcoc-jeiij2xcoc.gz
-C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\zhsft3x1b7-{0}-f4u8hvo1vp-f4u8hvo1vp.gz
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\staticwebassets.build.json
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\staticwebassets.build.json.cache
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\staticwebassets.development.json
@@ -1118,3 +1108,15 @@ C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\RaskidatorWAS
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\refint\RaskidatorWASM.dll
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\RaskidatorWASM.pdb
 C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\ref\RaskidatorWASM.dll
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.hswhbwn14j.wasm
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.ikp6wi9xkn.pdb
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\dotnet.9tjt08mkyw.js
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.hswhbwn14j.wasm.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\RaskidatorWASM.ikp6wi9xkn.pdb.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\wwwroot\_framework\dotnet.9tjt08mkyw.js.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\bin\Release\net10.0\docs\sample-data\weather.json
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\RaskidatorWASM.sourcelink.json
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\kp5bdcjdiy-{0}-hswhbwn14j-hswhbwn14j.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\22pb1q5sjq-{0}-ikp6wi9xkn-ikp6wi9xkn.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\5shmy8r6t7-{0}-9tjt08mkyw-9tjt08mkyw.gz
+C:\Users\b.dagbaev\source\repos\RaskidatorWASM\obj\Release\net10.0\compressed\zhsft3x1b7-{0}-6s84jvdj8j-6s84jvdj8j.gz

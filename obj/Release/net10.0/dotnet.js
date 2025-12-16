@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "RaskidatorWASM",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-TtVJd+u0zNDxRMLdUBqXEdGe+CQItKAHaRbd63mrU98=",
+    "hash": "sha256-8S+NtoD38qzovuBM7k5SsDLzskR6eTGYuaWGMfo5MXs=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.xanz2e7ksm.js"
@@ -1034,15 +1034,15 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "RaskidatorWASM.wasm",
-        "name": "RaskidatorWASM.eb0uoblj5b.wasm",
-        "integrity": "sha256-5m4i1wzYUjjWCZHhAItXAACL9Sky2Jc6NBkpVNXDHo8="
+        "name": "RaskidatorWASM.hswhbwn14j.wasm",
+        "integrity": "sha256-vyR8f/AI1V7T8LW7YBQ4/4TkCmmbDpSFi0WN3foaiNg="
       }
     ],
     "pdb": [
       {
         "virtualPath": "RaskidatorWASM.pdb",
-        "name": "RaskidatorWASM.fghffjylld.pdb",
-        "integrity": "sha256-HwHKnvHf4hknaJCWsK0Lrsz2ElfoANmXlaMOBGxDzwM="
+        "name": "RaskidatorWASM.ikp6wi9xkn.pdb",
+        "integrity": "sha256-DsHJdmfX+jDXVafDWJGR6XzCXfYI9KPob4yYbnVUwps="
       }
     ]
   },
